@@ -26,5 +26,9 @@
   },
   "bugs": {
     "url": "https://github.com/dbFlower/yarn-w-mono/issues"
+  },
+  "dependencies": {
+    "@c1aa56/pkg-c": "^0.4.1-next.0",
+    "@c1aa56/pkg-f": "^0.4.1-next.0"
   }
 }
