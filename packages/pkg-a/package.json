@@ -1,6 +1,6 @@
 {
   "name": "@c1aa56/pkg-a",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Flower Db <anna2011@vip.qq.com>",
   "homepage": "https://github.com/dbFlower/yarn-w-mono#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/dbFlower/yarn-w-mono/issues"
   },
   "dependencies": {
-    "@c1aa56/pkg-f": "^0.0.1"
+    "@c1aa56/pkg-f": "^0.1.0"
   }
 }
